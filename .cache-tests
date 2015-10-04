@@ -1,0 +1,255 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+/home/iig/dev/taxitube-chat/test -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes
+compile options:
+12 items
+00 -> -javabootclasspath
+01 -> /usr/lib/jvm/jdk1.8.0_60/jre/lib/resources.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/rt.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/jce.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/jfr.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/ext/jaccess.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/ext/localedata.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/ext/nashorn.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/ext/zipfs.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/ext/dnsns.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/ext/sunec.jar:/usr/lib/jvm/jdk1.8.0_60/jre/lib/ext/jfxrt.jar
+02 -> -javaextdirs
+03 ->  
+04 -> -bootclasspath
+05 -> /home/iig/apps/scalaide/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+06 -> -deprecation
+07 -> -unchecked
+08 -> -encoding
+09 -> UTF-8
+10 -> -encoding
+11 -> utf8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+33 items
+/home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/AbstractTestKit.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$1$$anon$1$$anonfun$1.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$1$$anon$1$delayedInit$body.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$1$$anon$1.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$1.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$2$$anon$2$$anonfun$2.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$2$$anon$2$delayedInit$body.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$2$$anon$2.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$2.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3$$anonfun$3.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3$$anonfun$4.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3$delayedInit$body.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$3.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$1$$anon$1$delayedInit$body.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$1$$anon$1.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$1.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$2$$anon$2$delayedInit$body.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$2$$anon$2.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$2.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$3$$anon$3$$anonfun$3.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$3$$anon$3$delayedInit$body.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$3$$anon$3.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$3.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$4$$anon$4$$anonfun$4.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$4$$anon$4$delayedInit$body.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$4$$anon$4.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$4.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec.class
+binary dependencies:
+31 items
+/home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala -> /home/iig/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.4.jar
+/home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala -> /home/iig/.ivy2/cache/com.typesafe.akka/akka-testkit_2.11/jars/akka-testkit_2.11-2.3.4.jar
+/home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala -> /home/iig/.ivy2/cache/org.specs2/specs2-core_2.11/jars/specs2-core_2.11-2.3.12.jar
+/home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala -> /home/iig/apps/scalaide/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+/home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala -> /usr/lib/jvm/jdk1.8.0_60/jre/lib/rt.jar
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.4.jar
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/.ivy2/cache/com.typesafe.akka/akka-testkit_2.11/jars/akka-testkit_2.11-2.3.4.jar
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/.ivy2/cache/com.typesafe.play/play-test_2.11/jars/play-test_2.11-2.3.2.jar
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/.ivy2/cache/junit/junit/jars/junit-4.11.jar
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/.ivy2/cache/org.specs2/specs2-common_2.11/jars/specs2-common_2.11-2.3.12.jar
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/.ivy2/cache/org.specs2/specs2-core_2.11/jars/specs2-core_2.11-2.3.12.jar
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/.ivy2/cache/org.specs2/specs2-junit_2.11/jars/specs2-junit_2.11-2.3.12.jar
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/.ivy2/cache/org.specs2/specs2-matcher_2.11/jars/specs2-matcher_2.11-2.3.12.jar
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/apps/scalaide/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/BoardActor.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/Message$.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/Subscribe$.class
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /usr/lib/jvm/jdk1.8.0_60/jre/lib/rt.jar
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.4.jar
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/.ivy2/cache/com.typesafe.akka/akka-testkit_2.11/jars/akka-testkit_2.11-2.3.4.jar
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.2.jar
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/.ivy2/cache/com.typesafe.play/play-test_2.11/jars/play-test_2.11-2.3.2.jar
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/.ivy2/cache/junit/junit/jars/junit-4.11.jar
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/.ivy2/cache/org.specs2/specs2-common_2.11/jars/specs2-common_2.11-2.3.12.jar
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/.ivy2/cache/org.specs2/specs2-core_2.11/jars/specs2-core_2.11-2.3.12.jar
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/.ivy2/cache/org.specs2/specs2-junit_2.11/jars/specs2-junit_2.11-2.3.12.jar
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/.ivy2/cache/org.specs2/specs2-matcher_2.11/jars/specs2-matcher_2.11-2.3.12.jar
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/apps/scalaide/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/Message$.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/UserActor.class
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /usr/lib/jvm/jdk1.8.0_60/jre/lib/rt.jar
+direct source dependencies:
+2 items
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+2 items
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> /home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> /home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+33 items
+/home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala -> actors.AbstractTestKit
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$1
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$1$$anon$1
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$1$$anon$1$$anonfun$1
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$1$$anon$1$delayedInit$body
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$2
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$2$$anon$2
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$2$$anon$2$$anonfun$2
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$2$$anon$2$delayedInit$body
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$3
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3$$anonfun$3
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3$$anonfun$4
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> actors.BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3$delayedInit$body
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$1
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$1$$anonfun$apply$1
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$1$$anonfun$apply$1$$anon$1
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$1$$anonfun$apply$1$$anon$1$delayedInit$body
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$1$$anonfun$apply$2
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$1$$anonfun$apply$2$$anon$2
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$1$$anonfun$apply$2$$anon$2$delayedInit$body
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$2
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$2$$anonfun$apply$3
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$2$$anonfun$apply$3$$anon$3
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$2$$anonfun$apply$3$$anon$3$$anonfun$3
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$2$$anonfun$apply$3$$anon$3$delayedInit$body
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$2$$anonfun$apply$4
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$2$$anonfun$apply$4$$anon$4
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$2$$anonfun$apply$4$$anon$4$$anonfun$4
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> actors.UserActorSpec$$anonfun$2$$anonfun$apply$4$$anon$4$delayedInit$body
+used names:
+0 items
+product stamps:
+33 items
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/AbstractTestKit.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$1$$anon$1$$anonfun$1.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$1$$anon$1$delayedInit$body.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$1$$anon$1.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$1.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$2$$anon$2$$anonfun$2.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$2$$anon$2$delayedInit$body.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$2$$anon$2.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$2.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3$$anonfun$3.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3$$anonfun$4.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3$delayedInit$body.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$3$$anon$3.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5$$anonfun$apply$3.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec$$anonfun$5.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/BoardActorSpec.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$1$$anon$1$delayedInit$body.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$1$$anon$1.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$1.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$2$$anon$2$delayedInit$body.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$2$$anon$2.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1$$anonfun$apply$2.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$1.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$3$$anon$3$$anonfun$3.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$3$$anon$3$delayedInit$body.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$3$$anon$3.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$3.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$4$$anon$4$$anonfun$4.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$4$$anon$4$delayedInit$body.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$4$$anon$4.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2$$anonfun$apply$4.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec$$anonfun$2.class -> lastModified(1443970325000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/test-classes/actors/UserActorSpec.class -> lastModified(1443970325000)
+source stamps:
+3 items
+/home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala -> hash(205316c768c718f06b63d1a29422f510dc5a1ccc)
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> hash(5528e22736b39ab73a5da12f76abdff7016f6b98)
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> hash(65eff016e15d21253a96636a4439b72b959fe4c1)
+binary stamps:
+15 items
+/home/iig/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.4.jar -> lastModified(1404129702000)
+/home/iig/.ivy2/cache/com.typesafe.akka/akka-testkit_2.11/jars/akka-testkit_2.11-2.3.4.jar -> lastModified(1404129739000)
+/home/iig/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.2.jar -> lastModified(1429638742000)
+/home/iig/.ivy2/cache/com.typesafe.play/play-test_2.11/jars/play-test_2.11-2.3.2.jar -> lastModified(1443905306000)
+/home/iig/.ivy2/cache/junit/junit/jars/junit-4.11.jar -> lastModified(1352920880000)
+/home/iig/.ivy2/cache/org.specs2/specs2-common_2.11/jars/specs2-common_2.11-2.3.12.jar -> lastModified(1399944765000)
+/home/iig/.ivy2/cache/org.specs2/specs2-core_2.11/jars/specs2-core_2.11-2.3.12.jar -> lastModified(1399944877000)
+/home/iig/.ivy2/cache/org.specs2/specs2-junit_2.11/jars/specs2-junit_2.11-2.3.12.jar -> lastModified(1399944859000)
+/home/iig/.ivy2/cache/org.specs2/specs2-matcher_2.11/jars/specs2-matcher_2.11-2.3.12.jar -> lastModified(1399944772000)
+/home/iig/apps/scalaide/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1437996554000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/BoardActor.class -> lastModified(1443970008000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/Message$.class -> lastModified(1443970008000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/Subscribe$.class -> lastModified(1443970008000)
+/home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/UserActor.class -> lastModified(1443970008000)
+/usr/lib/jvm/jdk1.8.0_60/jre/lib/rt.jar -> lastModified(1438716583000)
+class names:
+15 items
+/home/iig/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.4.jar -> akka.actor.Props$
+/home/iig/.ivy2/cache/com.typesafe.akka/akka-testkit_2.11/jars/akka-testkit_2.11-2.3.4.jar -> akka.testkit.ImplicitSender
+/home/iig/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.2.jar -> play.api.libs.json.Json$
+/home/iig/.ivy2/cache/com.typesafe.play/play-test_2.11/jars/play-test_2.11-2.3.2.jar -> play.api.test.WithApplication
+/home/iig/.ivy2/cache/junit/junit/jars/junit-4.11.jar -> org.junit.runner.RunWith
+/home/iig/.ivy2/cache/org.specs2/specs2-common_2.11/jars/specs2-common_2.11-2.3.12.jar -> org.specs2.control.Debug
+/home/iig/.ivy2/cache/org.specs2/specs2-core_2.11/jars/specs2-core_2.11-2.3.12.jar -> org.specs2.mutable.ExamplesFactory
+/home/iig/.ivy2/cache/org.specs2/specs2-junit_2.11/jars/specs2-junit_2.11-2.3.12.jar -> org.specs2.runner.JUnitRunner
+/home/iig/.ivy2/cache/org.specs2/specs2-matcher_2.11/jars/specs2-matcher_2.11-2.3.12.jar -> org.specs2.matcher.StringBaseMatchers$FindMatcher
+/home/iig/apps/scalaide/plugins/org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.runtime.AbstractFunction1
+/home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/BoardActor.class -> actors.BoardActor
+/home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/Message$.class -> actors.Message$
+/home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/Subscribe$.class -> actors.Subscribe$
+/home/iig/dev/taxitube-chat/target/scala-2.11/classes/actors/UserActor.class -> actors.UserActor
+/usr/lib/jvm/jdk1.8.0_60/jre/lib/rt.jar -> java.io.Serializable
+internal apis:
+3 items
+/home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCyztMRAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAWYWN0b3JzLkFic3RyYWN0VGVzdEtpdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgAuAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADVzcQB+AC4BdXEAfgAQAAAAAHBzcQB+AC4BdXEAfgAQAAAAAHBzcQB+AC4BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAhzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA0dAAOSW1wbGljaXRTZW5kZXJzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AE10AAd0ZXN0a2l0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AE5zcQB+AEF0AAxBZnRlckV4YW1wbGVzcQB+AEVzcQB+AEh1cQB+AEsAAAAEc3EAfgBNdAADb3Jnc3EAfgBNdAAGc3BlY3Myc3EAfgBNdAANc3BlY2lmaWNhdGlvbnEAfgBUc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBCWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgA0c3EAfgBBdAATQWZ0ZXJDb250ZXh0RXhhbXBsZXEAfgBXdXEAfgA/AAAAAXNxAH4AQXQABUFmdGVycQB+AFdzcQB+AEF0AA9FeGFtcGxlc0ZhY3RvcnlxAH4AV3NxAH4AQXQAB1Rlc3RLaXRxAH4AR3NxAH4AQXQAC1Rlc3RLaXRCYXNlcQB+AEdzcQB+AEF0AAZPYmplY3RzcQB+AEVzcQB+AEh1cQB+AEsAAAADc3EAfgBNdAAEamF2YXNxAH4ATXQABGxhbmdxAH4AVHNxAH4AQXQAA0FueXNxAH4ARXNxAH4ASHVxAH4ASwAAAAJzcQB+AE10AAVzY2FsYXEAfgBUcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAZhY3RvcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVAzVmnDdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAOi9ob21lL2lpZy9kZXYvdGF4aXR1YmUtY2hhdC90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0ACAvaG9tZS9paWcvZGV2L3RheGl0dWJlLWNoYXQvdGVzdHVyAAJbQqzzF/gGCFTgAgAAeHAAAAAUIFMWx2jHGPBrY9GilCL1ENxaHMw=
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHChJ3eKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAcTAAFdmFsdWVxAH4AHHhwdAAFdmFsdWV0ACZjbGFzc09mW29yZy5zcGVjczIucnVubmVyLkpVbml0UnVubmVyXXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdSdW5XaXRoc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgAvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+ADt0AAVqdW5pdHNxAH4AO3QABnJ1bm5lcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgA8c3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAVYWN0b3JzLkJvYXJkQWN0b3JTcGVjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AL3BzcQB+AFABc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AMHNxAH4AUAF1cQB+ABAAAAAAcHNxAH4AUAF1cQB+ABAAAAAAcHNxAH4AUAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAZnNxAH4ALXQAEU5vVGltZUNvbnZlcnNpb25zc3EAfgAzc3EAfgA2dXEAfgA5AAAABHNxAH4AO3QAA29yZ3NxAH4AO3QABnNwZWNzMnNxAH4AO3QABHRpbWVxAH4ARHNxAH4ALXQAEVNwZWNpZmljYXRpb25MaWtlc3EAfgAzc3EAfgA2dXEAfgA5AAAABHNxAH4AO3QAA29yZ3NxAH4AO3QABnNwZWNzMnNxAH4AO3QAB211dGFibGVxAH4ARHNxAH4ALXQAFVNwZWNpZmljYXRpb25GZWF0dXJlc3EAfgBuc3EAfgAtdAAFRGVidWdzcQB+ADNzcQB+ADZ1cQB+ADkAAAAEc3EAfgA7dAADb3Jnc3EAfgA7dAAGc3BlY3Myc3EAfgA7dAAHY29udHJvbHEAfgBEc3EAfgAtdAARQ29udGV4dHNJbmplY3Rpb25zcQB+ADNzcQB+ADZ1cQB+ADkAAAAEc3EAfgA7dAADb3Jnc3EAfgA7dAAGc3BlY3Myc3EAfgA7dAANc3BlY2lmaWNhdGlvbnEAfgBEc3EAfgAtdAAIQ29udGV4dHNxAH4AhnNxAH4ALXQAEVBlbmRpbmdVbnRpbEZpeGVkc3EAfgAzc3EAfgA2dXEAfgA5AAAABHNxAH4AO3QAA29yZ3NxAH4AO3QABnNwZWNzMnNxAH4AO3QAB2V4ZWN1dGVxAH4ARHNxAH4ALXQAD1RpbWVDb252ZXJzaW9uc3EAfgBjc3EAfgAtdAATRHVyYXRpb25Db252ZXJzaW9uc3EAfgBjc3EAfgAtdAAMQXV0b0V4YW1wbGVzcQB+AG5zcQB+AC10AAxBdXRvRXhhbXBsZXNxAH4AhnNxAH4ALXQAGEF1dG9FeGFtcGxlc0xvd0ltcGxpY2l0c3EAfgCGc3EAfgAtdAAEVGFnc3EAfgBuc3EAfgAtdAATRm9ybWF0dGluZ0ZyYWdtZW50c3EAfgBuc3EAfgAtdAATRm9ybWF0dGluZ0ZyYWdtZW50c3EAfgCGc3EAfgAtdAAUU2hvdWxkVGhyb3duTWF0Y2hlcnNzcQB+ADNzcQB+ADZ1cQB+ADkAAAAEc3EAfgA7dAADb3Jnc3EAfgA7dAAGc3BlY3Myc3EAfgA7dAAHbWF0Y2hlcnEAfgBEc3EAfgAtdAAYU2hvdWxkVGhyb3duRXhwZWN0YXRpb25zcQB+AK5zcQB+AC10ABJTaG91bGRFeHBlY3RhdGlvbnNxAH4ArnNxAH4ALXQAEk11c3RUaHJvd25NYXRjaGVyc3EAfgCuc3EAfgAtdAAWTXVzdFRocm93bkV4cGVjdGF0aW9uc3EAfgCuc3EAfgAtdAAQTXVzdEV4cGVjdGF0aW9uc3EAfgCuc3EAfgAtdAASVGhyb3duRXhwZWN0YXRpb25zcQB+AK5zcQB+AC10ABRTdGFuZGFyZE1hdGNoUmVzdWx0c3EAfgCuc3EAfgAtdAAPU3RhbmRhcmRSZXN1bHRzcQB+AJNzcQB+AC10AAhNYXRjaGVyc3EAfgCuc3EAfgAtdAAQTGFuZ3VhZ2VGZWF0dXJlc3EAfgB7c3EAfgAtdAARTWF0Y2hlcnNJbXBsaWNpdHNxAH4ArnNxAH4ALXQAF0V4cGVjdGF0aW9uc0Rlc2NyaXB0aW9ucQB+AK5zcQB+AC10AAlTZW50ZW5jZXNzcQB+ADNzcQB+ADZ1cQB+ADkAAAAEc3EAfgA7dAADb3Jnc3EAfgA7dAAGc3BlY3Myc3EAfgA7dAAEdGV4dHEAfgBEc3EAfgAtdAAUTWF0Y2hSZXN1bHRJbXBsaWNpdHNxAH4ArnNxAH4ALXQAE01hdGNoZXJaaXBPcGVyYXRvcnNxAH4ArnNxAH4ALXQAFk1hdGNoUmVzdWx0Q29tYmluYXRvcnNxAH4ArnNxAH4ALXQAGFJlc3VsdExvZ2ljYWxDb21iaW5hdG9yc3EAfgCTc3EAfgAtdAAHUmVzdWx0c3EAfgCTc3EAfgAtdAAdTWF0Y2hSZXN1bHRMb2dpY2FsQ29tYmluYXRvcnNxAH4ArnNxAH4ALXQADkZ1dHVyZU1hdGNoZXJzcQB+AK5zcQB+AC10ABpDb25jdXJyZW50RXhlY3V0aW9uQ29udGV4dHEAfgCuc3EAfgAtdAASRXZlbnR1YWxseU1hdGNoZXJzcQB+AK5zcQB+AC10ABFFdmVudHVhbGx5UmVzdWx0c3EAfgCTc3EAfgAtdAALVHJ5TWF0Y2hlcnNxAH4ArnNxAH4ALXQAEVRyeUJlSGF2ZU1hdGNoZXJzcQB+AK5zcQB+AC10AA9UcnlCYXNlTWF0Y2hlcnNxAH4ArnNxAH4ALXQADkVpdGhlck1hdGNoZXJzcQB+AK5zcQB+AC10ABRFaXRoZXJCZUhhdmVNYXRjaGVyc3EAfgCuc3EAfgAtdAASRWl0aGVyQmFzZU1hdGNoZXJzcQB+AK5zcQB+AC10AA5PcHRpb25NYXRjaGVyc3EAfgCuc3EAfgAtdAAUT3B0aW9uQmVIYXZlTWF0Y2hlcnNxAH4ArnNxAH4ALXQAEk9wdGlvbkJhc2VNYXRjaGVyc3EAfgCuc3EAfgAtdAAPTnVtZXJpY01hdGNoZXJzcQB+AK5zcQB+AC10ABVOdW1lcmljQmVIYXZlTWF0Y2hlcnNxAH4ArnNxAH4ALXQAE051bWVyaWNCYXNlTWF0Y2hlcnNxAH4ArnNxAH4ALXQAEUV4Y2VwdGlvbk1hdGNoZXJzcQB+AK5zcQB+AC10ABdFeGNlcHRpb25CZUhhdmVNYXRjaGVyc3EAfgCuc3EAfgAtdAAVRXhjZXB0aW9uQmFzZU1hdGNoZXJzcQB+AK5zcQB+AC10AAxFeHBlY3RhdGlvbnNxAH4ArnNxAH4ALXQACkNhbkJlRXF1YWxxAH4ArnNxAH4ALXQADlN0cmluZ01hdGNoZXJzcQB+AK5zcQB+AC10ABRTdHJpbmdCZUhhdmVNYXRjaGVyc3EAfgCuc3EAfgAtdAASU3RyaW5nQmFzZU1hdGNoZXJzcQB+AK5zcQB+AC10AAtNYXBNYXRjaGVyc3EAfgCuc3EAfgAtdAARTWFwQmVIYXZlTWF0Y2hlcnNxAH4ArnNxAH4ALXQAD01hcEJhc2VNYXRjaGVyc3EAfgCuc3EAfgAtdAATVHJhdmVyc2FibGVNYXRjaGVyc3EAfgCuc3EAfgAtdAAZVHJhdmVyc2FibGVCZUhhdmVNYXRjaGVyc3EAfgCuc3EAfgAtdAAOTGF6eVBhcmFtZXRlcnNxAH4Ae3NxAH4ALXQADU51bWJlck9mVGltZXNxAH4Ae3NxAH4ALXQAF1RyYXZlcnNhYmxlQmFzZU1hdGNoZXJzcQB+AK5zcQB+AC10ACNUcmF2ZXJzYWJsZUJhc2VNYXRjaGVyc0xvd0ltcGxpY2l0c3EAfgCuc3EAfgAtdAALVmFsdWVDaGVja3NxAH4ArnNxAH4ALXQAF1ZhbHVlQ2hlY2tzTG93SW1wbGljaXRzcQB+AK5zcQB+AC10AA5CZUhhdmVNYXRjaGVyc3EAfgCuc3EAfgAtdAALQW55TWF0Y2hlcnNxAH4ArnNxAH4ALXQAEUFueUJlSGF2ZU1hdGNoZXJzcQB+AK5zcQB+AC10AA9BbnlCYXNlTWF0Y2hlcnNxAH4ArnNxAH4ALXQAEkFyZ3VtZW50c1Nob3J0Y3V0c3NxAH4AM3NxAH4ANnVxAH4AOQAAAARzcQB+ADt0AANvcmdzcQB+ADt0AAZzcGVjczJzcQB+ADt0AARtYWlucQB+AERzcQB+AC10AA1Bcmd1bWVudHNBcmdzcQB+AG5zcQB+AC10AA1Bcmd1bWVudHNBcmdzcQB+ATZzcQB+AC10AA1BcmdQcm9wZXJ0aWVzcQB+ATZzcQB+AC10ABZTcGVjaWZpY2F0aW9uSW5jbHVzaW9ucQB+AG5zcQB+AC10ABZTcGVjaWZpY2F0aW9uSW5jbHVzaW9ucQB+AIZzcQB+AC10ABBGcmFnbWVudHNCdWlsZGVycQB+AG5zcQB+AC10ABpTaWRlRWZmZWN0aW5nQ3JlYXRpb25QYXRoc3EAfgBuc3EAfgAtdAAXU3BlY2lmaWNhdGlvbk5hdmlnYXRpb25xAH4AhnNxAH4ALXQAD0V4YW1wbGVzRmFjdG9yeXEAfgBuc3EAfgAtdAAQRnJhZ21lbnRzQnVpbGRlcnEAfgCGc3EAfgAtdAAORm9ybWF0dGluZ1RhZ3NxAH4AhnNxAH4ALXQABFRhZ3NxAH4AhnNxAH4ALXQAEkltcGxpY2l0UGFyYW1ldGVyc3EAfgB7c3EAfgAtdAAaU3BlY2lmaWNhdGlvblN0cmluZ0NvbnRleHRxAH4AhnNxAH4ALXQAFlNwZWNpZmljYXRpb25TdHJ1Y3R1cmVxAH4AhnNxAH4ALXQAGkRlZmF1bHRGcmFnbWVudHNGb3JtYXR0aW5ncQB+AIZzcQB+AC10AA9UYWdzQXNzb2NpYXRpb25xAH4AhnNxAH4ALXQAE0ZyYWdtZW50c0Zvcm1hdHRpbmdxAH4AhnNxAH4ALXQAD0Fic3RyYWN0VGVzdEtpdHNxAH4AM3NxAH4ANnVxAH4AOQAAAAJzcQB+ADt0AAZhY3RvcnNxAH4ARHNxAH4ALXQADkltcGxpY2l0U2VuZGVyc3EAfgAzc3EAfgA2dXEAfgA5AAAAA3NxAH4AO3QABGFra2FzcQB+ADt0AAd0ZXN0a2l0cQB+AERzcQB+AC10AAxBZnRlckV4YW1wbGVxAH4AhnNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ALlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AL3NxAH4ALXQAE0FmdGVyQ29udGV4dEV4YW1wbGVxAH4AhnVxAH4AXwAAAAFzcQB+AC10AAVBZnRlcnEAfgCGc3EAfgAtdAAPRXhhbXBsZXNGYWN0b3J5cQB+AIZzcQB+AC10AAdUZXN0S2l0cQB+AWxzcQB+AC10AAtUZXN0S2l0QmFzZXEAfgFsc3EAfgAtdAAGT2JqZWN0c3EAfgAzc3EAfgA2dXEAfgA5AAAAA3NxAH4AO3QABGphdmFzcQB+ADt0AARsYW5ncQB+AERzcQB+AC10AANBbnlzcQB+ADNzcQB+ADZ1cQB+ADkAAAACc3EAfgA7dAAFc2NhbGFxAH4ARHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAGYWN0b3Jzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQM1Zpw3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ADovaG9tZS9paWcvZGV2L3RheGl0dWJlLWNoYXQvdGFyZ2V0L3NjYWxhLTIuMTEvdGVzdC1jbGFzc2VzdAAgL2hvbWUvaWlnL2Rldi90YXhpdHViZS1jaGF0L3Rlc3R1cgACW0Ks8xf4BghU4AIAAHhwAAAAFFUo4ic2s5q3Ol2hL3ar3/cBb2uY
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDtYOjnAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAcTAAFdmFsdWVxAH4AHHhwdAAFdmFsdWV0ACZjbGFzc09mW29yZy5zcGVjczIucnVubmVyLkpVbml0UnVubmVyXXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdSdW5XaXRoc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgAvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+ADt0AAVqdW5pdHNxAH4AO3QABnJ1bm5lcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgA8c3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAUYWN0b3JzLlVzZXJBY3RvclNwZWN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHEAfgAvcHNxAH4AUAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgAwc3EAfgBQAXVxAH4AEAAAAABwc3EAfgBQAXVxAH4AEAAAAABwc3EAfgBQAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAABlc3EAfgAtdAARU3BlY2lmaWNhdGlvbkxpa2VzcQB+ADNzcQB+ADZ1cQB+ADkAAAAEc3EAfgA7dAADb3Jnc3EAfgA7dAAGc3BlY3Myc3EAfgA7dAAHbXV0YWJsZXEAfgBEc3EAfgAtdAAVU3BlY2lmaWNhdGlvbkZlYXR1cmVzcQB+AGNzcQB+AC10AAVEZWJ1Z3NxAH4AM3NxAH4ANnVxAH4AOQAAAARzcQB+ADt0AANvcmdzcQB+ADt0AAZzcGVjczJzcQB+ADt0AAdjb250cm9scQB+AERzcQB+AC10ABFDb250ZXh0c0luamVjdGlvbnNxAH4AM3NxAH4ANnVxAH4AOQAAAARzcQB+ADt0AANvcmdzcQB+ADt0AAZzcGVjczJzcQB+ADt0AA1zcGVjaWZpY2F0aW9ucQB+AERzcQB+AC10AAhDb250ZXh0c3EAfgB7c3EAfgAtdAARUGVuZGluZ1VudGlsRml4ZWRzcQB+ADNzcQB+ADZ1cQB+ADkAAAAEc3EAfgA7dAADb3Jnc3EAfgA7dAAGc3BlY3Myc3EAfgA7dAAHZXhlY3V0ZXEAfgBEc3EAfgAtdAAPVGltZUNvbnZlcnNpb25zc3EAfgAzc3EAfgA2dXEAfgA5AAAABHNxAH4AO3QAA29yZ3NxAH4AO3QABnNwZWNzMnNxAH4AO3QABHRpbWVxAH4ARHNxAH4ALXQAE0R1cmF0aW9uQ29udmVyc2lvbnNxAH4Ak3NxAH4ALXQADEF1dG9FeGFtcGxlc3EAfgBjc3EAfgAtdAAMQXV0b0V4YW1wbGVzcQB+AHtzcQB+AC10ABhBdXRvRXhhbXBsZXNMb3dJbXBsaWNpdHNxAH4Ae3NxAH4ALXQABFRhZ3NxAH4AY3NxAH4ALXQAE0Zvcm1hdHRpbmdGcmFnbWVudHNxAH4AY3NxAH4ALXQAE0Zvcm1hdHRpbmdGcmFnbWVudHNxAH4Ae3NxAH4ALXQAFFNob3VsZFRocm93bk1hdGNoZXJzc3EAfgAzc3EAfgA2dXEAfgA5AAAABHNxAH4AO3QAA29yZ3NxAH4AO3QABnNwZWNzMnNxAH4AO3QAB21hdGNoZXJxAH4ARHNxAH4ALXQAGFNob3VsZFRocm93bkV4cGVjdGF0aW9uc3EAfgCsc3EAfgAtdAASU2hvdWxkRXhwZWN0YXRpb25zcQB+AKxzcQB+AC10ABJNdXN0VGhyb3duTWF0Y2hlcnNxAH4ArHNxAH4ALXQAFk11c3RUaHJvd25FeHBlY3RhdGlvbnNxAH4ArHNxAH4ALXQAEE11c3RFeHBlY3RhdGlvbnNxAH4ArHNxAH4ALXQAElRocm93bkV4cGVjdGF0aW9uc3EAfgCsc3EAfgAtdAAUU3RhbmRhcmRNYXRjaFJlc3VsdHNxAH4ArHNxAH4ALXQAD1N0YW5kYXJkUmVzdWx0c3EAfgCIc3EAfgAtdAAITWF0Y2hlcnNxAH4ArHNxAH4ALXQAEExhbmd1YWdlRmVhdHVyZXNxAH4AcHNxAH4ALXQAEU1hdGNoZXJzSW1wbGljaXRzcQB+AKxzcQB+AC10ABdFeHBlY3RhdGlvbnNEZXNjcmlwdGlvbnEAfgCsc3EAfgAtdAAJU2VudGVuY2Vzc3EAfgAzc3EAfgA2dXEAfgA5AAAABHNxAH4AO3QAA29yZ3NxAH4AO3QABnNwZWNzMnNxAH4AO3QABHRleHRxAH4ARHNxAH4ALXQAFE1hdGNoUmVzdWx0SW1wbGljaXRzcQB+AKxzcQB+AC10ABNNYXRjaGVyWmlwT3BlcmF0b3JzcQB+AKxzcQB+AC10ABZNYXRjaFJlc3VsdENvbWJpbmF0b3JzcQB+AKxzcQB+AC10ABhSZXN1bHRMb2dpY2FsQ29tYmluYXRvcnNxAH4AiHNxAH4ALXQAB1Jlc3VsdHNxAH4AiHNxAH4ALXQAHU1hdGNoUmVzdWx0TG9naWNhbENvbWJpbmF0b3JzcQB+AKxzcQB+AC10AA5GdXR1cmVNYXRjaGVyc3EAfgCsc3EAfgAtdAAaQ29uY3VycmVudEV4ZWN1dGlvbkNvbnRleHRxAH4ArHNxAH4ALXQAEkV2ZW50dWFsbHlNYXRjaGVyc3EAfgCsc3EAfgAtdAARRXZlbnR1YWxseVJlc3VsdHNxAH4AiHNxAH4ALXQAC1RyeU1hdGNoZXJzcQB+AKxzcQB+AC10ABFUcnlCZUhhdmVNYXRjaGVyc3EAfgCsc3EAfgAtdAAPVHJ5QmFzZU1hdGNoZXJzcQB+AKxzcQB+AC10AA5FaXRoZXJNYXRjaGVyc3EAfgCsc3EAfgAtdAAURWl0aGVyQmVIYXZlTWF0Y2hlcnNxAH4ArHNxAH4ALXQAEkVpdGhlckJhc2VNYXRjaGVyc3EAfgCsc3EAfgAtdAAOT3B0aW9uTWF0Y2hlcnNxAH4ArHNxAH4ALXQAFE9wdGlvbkJlSGF2ZU1hdGNoZXJzcQB+AKxzcQB+AC10ABJPcHRpb25CYXNlTWF0Y2hlcnNxAH4ArHNxAH4ALXQAD051bWVyaWNNYXRjaGVyc3EAfgCsc3EAfgAtdAAVTnVtZXJpY0JlSGF2ZU1hdGNoZXJzcQB+AKxzcQB+AC10ABNOdW1lcmljQmFzZU1hdGNoZXJzcQB+AKxzcQB+AC10ABFFeGNlcHRpb25NYXRjaGVyc3EAfgCsc3EAfgAtdAAXRXhjZXB0aW9uQmVIYXZlTWF0Y2hlcnNxAH4ArHNxAH4ALXQAFUV4Y2VwdGlvbkJhc2VNYXRjaGVyc3EAfgCsc3EAfgAtdAAMRXhwZWN0YXRpb25zcQB+AKxzcQB+AC10AApDYW5CZUVxdWFscQB+AKxzcQB+AC10AA5TdHJpbmdNYXRjaGVyc3EAfgCsc3EAfgAtdAAUU3RyaW5nQmVIYXZlTWF0Y2hlcnNxAH4ArHNxAH4ALXQAElN0cmluZ0Jhc2VNYXRjaGVyc3EAfgCsc3EAfgAtdAALTWFwTWF0Y2hlcnNxAH4ArHNxAH4ALXQAEU1hcEJlSGF2ZU1hdGNoZXJzcQB+AKxzcQB+AC10AA9NYXBCYXNlTWF0Y2hlcnNxAH4ArHNxAH4ALXQAE1RyYXZlcnNhYmxlTWF0Y2hlcnNxAH4ArHNxAH4ALXQAGVRyYXZlcnNhYmxlQmVIYXZlTWF0Y2hlcnNxAH4ArHNxAH4ALXQADkxhenlQYXJhbWV0ZXJzcQB+AHBzcQB+AC10AA1OdW1iZXJPZlRpbWVzcQB+AHBzcQB+AC10ABdUcmF2ZXJzYWJsZUJhc2VNYXRjaGVyc3EAfgCsc3EAfgAtdAAjVHJhdmVyc2FibGVCYXNlTWF0Y2hlcnNMb3dJbXBsaWNpdHNxAH4ArHNxAH4ALXQAC1ZhbHVlQ2hlY2tzcQB+AKxzcQB+AC10ABdWYWx1ZUNoZWNrc0xvd0ltcGxpY2l0c3EAfgCsc3EAfgAtdAAOQmVIYXZlTWF0Y2hlcnNxAH4ArHNxAH4ALXQAC0FueU1hdGNoZXJzcQB+AKxzcQB+AC10ABFBbnlCZUhhdmVNYXRjaGVyc3EAfgCsc3EAfgAtdAAPQW55QmFzZU1hdGNoZXJzcQB+AKxzcQB+AC10ABJBcmd1bWVudHNTaG9ydGN1dHNzcQB+ADNzcQB+ADZ1cQB+ADkAAAAEc3EAfgA7dAADb3Jnc3EAfgA7dAAGc3BlY3Myc3EAfgA7dAAEbWFpbnEAfgBEc3EAfgAtdAANQXJndW1lbnRzQXJnc3EAfgBjc3EAfgAtdAANQXJndW1lbnRzQXJnc3EAfgE0c3EAfgAtdAANQXJnUHJvcGVydGllc3EAfgE0c3EAfgAtdAAWU3BlY2lmaWNhdGlvbkluY2x1c2lvbnEAfgBjc3EAfgAtdAAWU3BlY2lmaWNhdGlvbkluY2x1c2lvbnEAfgB7c3EAfgAtdAAQRnJhZ21lbnRzQnVpbGRlcnEAfgBjc3EAfgAtdAAaU2lkZUVmZmVjdGluZ0NyZWF0aW9uUGF0aHNxAH4AY3NxAH4ALXQAF1NwZWNpZmljYXRpb25OYXZpZ2F0aW9ucQB+AHtzcQB+AC10AA9FeGFtcGxlc0ZhY3RvcnlxAH4AY3NxAH4ALXQAEEZyYWdtZW50c0J1aWxkZXJxAH4Ae3NxAH4ALXQADkZvcm1hdHRpbmdUYWdzcQB+AHtzcQB+AC10AARUYWdzcQB+AHtzcQB+AC10ABJJbXBsaWNpdFBhcmFtZXRlcnNxAH4AcHNxAH4ALXQAGlNwZWNpZmljYXRpb25TdHJpbmdDb250ZXh0cQB+AHtzcQB+AC10ABZTcGVjaWZpY2F0aW9uU3RydWN0dXJlcQB+AHtzcQB+AC10ABpEZWZhdWx0RnJhZ21lbnRzRm9ybWF0dGluZ3EAfgB7c3EAfgAtdAAPVGFnc0Fzc29jaWF0aW9ucQB+AHtzcQB+AC10ABNGcmFnbWVudHNGb3JtYXR0aW5ncQB+AHtzcQB+AC10AA9BYnN0cmFjdFRlc3RLaXRzcQB+ADNzcQB+ADZ1cQB+ADkAAAACc3EAfgA7dAAGYWN0b3JzcQB+AERzcQB+AC10AA5JbXBsaWNpdFNlbmRlcnNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AARha2thc3EAfgA7dAAHdGVzdGtpdHEAfgBEc3EAfgAtdAAMQWZ0ZXJFeGFtcGxlcQB+AHtzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AC5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AC9zcQB+AC10ABNBZnRlckNvbnRleHRFeGFtcGxlcQB+AHt1cQB+AF8AAAABc3EAfgAtdAAFQWZ0ZXJxAH4Ae3NxAH4ALXQAD0V4YW1wbGVzRmFjdG9yeXEAfgB7c3EAfgAtdAAHVGVzdEtpdHEAfgFqc3EAfgAtdAALVGVzdEtpdEJhc2VxAH4BanNxAH4ALXQABk9iamVjdHNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AARqYXZhc3EAfgA7dAAEbGFuZ3EAfgBEc3EAfgAtdAADQW55c3EAfgAzc3EAfgA2dXEAfgA5AAAAAnNxAH4AO3QABXNjYWxhcQB+AERwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQABmFjdG9yc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUDNWacN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAA6L2hvbWUvaWlnL2Rldi90YXhpdHViZS1jaGF0L3RhcmdldC9zY2FsYS0yLjExL3Rlc3QtY2xhc3Nlc3QAIC9ob21lL2lpZy9kZXYvdGF4aXR1YmUtY2hhdC90ZXN0dXIAAltCrPMX+AYIVOACAAB4cAAAABRl7/AW4V0hJTqWY2pEObcrlZ/kwQ==
+external apis:
+0 items
+source infos:
+3 items
+/home/iig/dev/taxitube-chat/test/actors/AbstractTestKit.scala -> 
+AAAAAAAAAAA=
+/home/iig/dev/taxitube-chat/test/actors/BoardActorSpec.scala -> 
+AAAAAAAAAAA=
+/home/iig/dev/taxitube-chat/test/actors/UserActorSpec.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUDH/sxJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2lpZy9kZXYvdGF4aXR1YmUtY2hhdC90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0ACAvaG9tZS9paWcvZGV2L3RheGl0dWJlLWNoYXQvdGVzdA==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUDJYd5J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2lpZy9kZXYvdGF4aXR1YmUtY2hhdC90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0ACAvaG9tZS9paWcvZGV2L3RheGl0dWJlLWNoYXQvdGVzdA==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUDJYsRJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2lpZy9kZXYvdGF4aXR1YmUtY2hhdC90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0ACAvaG9tZS9paWcvZGV2L3RheGl0dWJlLWNoYXQvdGVzdA==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUDNWacN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL2lpZy9kZXYvdGF4aXR1YmUtY2hhdC90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0ACAvaG9tZS9paWcvZGV2L3RheGl0dWJlLWNoYXQvdGVzdA==
